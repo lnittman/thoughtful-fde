@@ -1,5 +1,5 @@
 import unittest
-from sort import sort
+from thoughtful_sort import sort
 
 class TestSort(unittest.TestCase):
     def test_standard(self):
